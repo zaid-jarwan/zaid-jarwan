@@ -11,7 +11,7 @@
 - 🛡️ SOC Officer at Green Circle for Cybersecurity — Tier 2 investigations across multi-tenant environments.
 - 📉 Reduced false-positive alerts by ~30% through allowlisting and detection-rule tuning in Threat Defense and Seceon.
 - 🧠 CEH v13 certified, with a B.Sc. in Cybersecurity from Zarqa University.
-- 🎓 Trained 70+ cybersecurity interns on SIEM triage, incident documentation and escalation.
+- 🎓 Trained 100+ cybersecurity interns on SIEM triage, incident documentation and escalation.
 - 🥈 Top 3% on TryHackMe — Silver league, 55 capability score and 3 completed paths.
 
 ## Tech Stack
