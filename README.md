@@ -34,6 +34,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaid-jarwan)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-ZaidJarwan-1E1E1E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ZaidJarwan)
 
-## GitHub Stats
-
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaid-jarwan&show_icons=true&theme=github_dark&hide_border=true)
