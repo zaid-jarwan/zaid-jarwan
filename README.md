@@ -17,9 +17,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,linux,bash,kali,git,github,elasticsearch,postgresql&theme=dark" alt="Python, Linux, Bash, Kali, Git, GitHub, Elasticsearch, PostgreSQL" />
 
-![Splunk](https://img.shields.io/badge/Splunk-00A6A6?style=flat-square&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-00BFB3?style=flat-square&logo=elastic&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-0B6E99?style=flat-square)
+<img src="https://cdn.simpleicons.org/splunk/00A6A6" height="28" alt="Splunk" /> <img src="https://cdn.simpleicons.org/elastic/00BFB3" height="28" alt="Elastic" /> <img src="https://raw.githubusercontent.com/wazuh/wazuh-dashboard/master/src/core/server/core_app/assets/wazuh_logo.svg" height="28" alt="Wazuh" />
 
 ## Projects
 
