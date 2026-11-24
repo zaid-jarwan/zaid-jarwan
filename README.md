@@ -32,5 +32,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidjarwan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaid-jarwan)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-ZaidJarwan-1E1E1E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ZaidJarwan)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-1E1E1E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ZaidJarwan)
 
