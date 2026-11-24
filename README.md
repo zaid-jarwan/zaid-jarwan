@@ -12,12 +12,13 @@
 - 📉 Reduced false-positive alerts by ~30% through allowlisting and detection-rule tuning in Threat Defense and Seceon.
 - 🧠 CEH v13 certified, with a B.Sc. in Cybersecurity from Zarqa University.
 - 🎓 Trained 70+ cybersecurity interns on SIEM triage, incident documentation and escalation.
+- 🥈 Top 3% on TryHackMe — Silver league, 55 capability score and 3 completed paths.
 
 ## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,linux,bash,kali,git,github,elasticsearch,postgresql&theme=dark" alt="Python, Linux, Bash, Kali, Git, GitHub, Elasticsearch, PostgreSQL" />
 
-<img src="https://cdn.simpleicons.org/splunk/00A6A6" height="28" alt="Splunk" /> <img src="https://cdn.simpleicons.org/elastic/00BFB3" height="28" alt="Elastic" /> <img src="https://raw.githubusercontent.com/wazuh/wazuh-dashboard/master/src/core/server/core_app/assets/wazuh_logo.svg" height="28" alt="Wazuh" /> <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/master/svg/sophos.svg" height="28" alt="Sophos" /> <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="28" alt="FortiGate" />
+<img src="https://cdn.simpleicons.org/splunk/00A6A6" height="28" alt="Splunk" /> <img src="https://cdn.simpleicons.org/elastic/00BFB3" height="28" alt="Elastic" /> <img src="https://raw.githubusercontent.com/wazuh/wazuh-dashboard/master/src/core/server/core_app/assets/wazuh_logo.svg" height="28" alt="Wazuh" /> <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/master/svg/sophos.svg" height="28" alt="Sophos" /> <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="28" alt="FortiGate" /> <img src="https://seceon.com/wp-content/uploads/2025/07/Logo-1920-x-1200-px-2-white-seceon-logo1.png" height="28" alt="Seceon" /> <img src="https://threatdefence.com/td-favicon" height="28" alt="Threat Defense" />
 
 ## Projects
 
@@ -33,6 +34,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidjarwan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaid-jarwan)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ZaidJarwan-1E1E1E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ZaidJarwan)
 
 ## GitHub Stats
 
