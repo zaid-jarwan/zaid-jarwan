@@ -23,10 +23,10 @@
 | Project | Description | Links |
 | --- | --- | --- |
 | Elastic Multi-Tenant SIEM | MSSP lab with dedicated Kibana spaces, Elasticsearch namespaces and Fleet agent policies per tenant. | [Repo](https://github.com/zaid-jarwan/elastic-multi-talents) |
-| Tikter — Multi-Tenant Ticketing | Service desk with per-tenant workspaces, role-based routing, SLA tracking and PostgreSQL row-level security. | [Docs](https://github.com/zaid-jarwan/tikter-documentation) · [Repo (private)](https://github.com/zaid-jarwan/tikter) |
-| Escalation Report Generator | SOC alert formatter with automatic defanging and multi-tenant support. | [Docs](https://github.com/zaid-jarwan/Escalation-Report-Generator-Documentation) · [Repo (private)](https://github.com/zaid-jarwan/Escalation-Report-Generator) |
+| Tikter — Multi-Tenant Ticketing | Service desk with per-tenant workspaces, role-based routing, SLA tracking and PostgreSQL row-level security. | [Docs](https://github.com/zaid-jarwan/tikter-documentation) |
+| Escalation Report Generator | SOC alert formatter with automatic defanging and multi-tenant support. | [Docs](https://github.com/zaid-jarwan/Escalation-Report-Generator-Documentation) |
 | SOC Automation & Orchestration Platform | Wazuh, Suricata, FortiGate and Cisco integrated with n8n SOAR automation. | [Repo](https://github.com/zaid-jarwan/SOAR-SIEM--IDS-IPS-FW-SW) |
-| OLADS | Offensive Language Awareness Detection System for Arabic movies. | [Docs](https://github.com/zaid-jarwan/OLADS-For-Arabic-Movies-documentation) · [Repo (private)](https://github.com/zaid-jarwan/OLADS-For-Arabic-Movies) |
+| OLADS | Offensive Language Awareness Detection System for Arabic movies. | [Docs](https://github.com/zaid-jarwan/OLADS-For-Arabic-Movies-documentation) |
 
 ## Connect with me
 
