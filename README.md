@@ -16,8 +16,7 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,kali,git,github,elasticsearch,postgresql&theme=dark" alt="Python, Linux, Bash, Kali, Git, GitHub, Elasticsearch, PostgreSQL" />
-<img src="https://cdn.simpleicons.org/splunk/00A6A6" height="28" alt="Splunk" /> <img src="https://cdn.simpleicons.org/elastic/00BFB3" height="28" alt="Elastic" /> <img src="https://raw.githubusercontent.com/wazuh/wazuh-dashboard/master/src/core/server/core_app/assets/wazuh_logo.svg" height="28" alt="Wazuh" /> <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/master/svg/sophos.svg" height="28" alt="Sophos" /> <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="28" alt="FortiGate" /> <img src="https://seceon.com/wp-content/uploads/2025/07/Logo-1920-x-1200-px-2-white-seceon-logo1.png" height="28" alt="Seceon" /> <img src="https://threatdefence.com/td-favicon" height="28" alt="Threat Defense" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,kali,git,github,elasticsearch,postgresql&theme=dark" alt="Python, Linux, Bash, Kali, Git, GitHub, Elasticsearch, PostgreSQL" /> <img src="https://cdn.simpleicons.org/splunk/00A6A6" height="28" alt="Splunk" /> <img src="https://cdn.simpleicons.org/elastic/00BFB3" height="28" alt="Elastic" /> <img src="https://raw.githubusercontent.com/wazuh/wazuh-dashboard/master/src/core/server/core_app/assets/wazuh_logo.svg" height="28" alt="Wazuh" /> <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/master/svg/sophos.svg" height="28" alt="Sophos" /> <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="28" alt="FortiGate" /> <img src="https://seceon.com/wp-content/uploads/2024/07/Seceon-Favicon.png" height="28" alt="Seceon" /> <img src="https://threatdefence.com/td-favicon" height="28" alt="Threat Defense" />
 
 ## Projects
 
