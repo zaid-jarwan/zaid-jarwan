@@ -2,25 +2,31 @@
 
 # Hi 👋, I'm Zaid-Jarwan
 
-**Cyber security · SOC / Blue Team Analyst**
+**Cyber security · SOC Analyst · Blue Team Specialist**
 
 </div>
 
 ## About Me
 
-- 🛡️ SOC Officer at Green Circle for Cybersecurity — L2 monitoring, threat detection and incident response.
+- 🛡️ SOC Officer at Green Circle for Cybersecurity (Jun 2025 – Present) — Tier 2 investigations across multi-tenant environments.
+- 📉 Reduced false-positive alerts by ~30% through allowlisting and detection-rule tuning in Threat Defense and Seceon.
 - 🧠 CEH v13 certified, with a B.Sc. in Cybersecurity from Zarqa University.
-- 📊 Work across multi-tenant SIEM environments: Splunk, Elastic, Wazuh and Seceon.
-- ⚙️ Build Python security tools and n8n SOAR automations; mentor 70+ cybersecurity trainees.
+- 🎓 Trained 70+ cybersecurity interns on SIEM triage, incident documentation and escalation.
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,kali,git,github&theme=dark" alt="Python, Linux, Bash, Kali, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,kali,git,github,elasticsearch,postgresql&theme=dark" alt="Python, Linux, Bash, Kali, Git, GitHub, Elasticsearch, PostgreSQL" />
+
+![Splunk](https://img.shields.io/badge/Splunk-00A6A6?style=flat-square&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-00BFB3?style=flat-square&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-0B6E99?style=flat-square)
 
 ## Projects
 
 | Project | Description | Links |
 | --- | --- | --- |
+| Elastic Multi-Tenant SIEM | MSSP lab with dedicated Kibana spaces, Elasticsearch namespaces and Fleet agent policies per tenant. | [Repo](https://github.com/zaid-jarwan/elastic-multi-talents) |
+| Tikter — Multi-Tenant Ticketing | Service desk with per-tenant workspaces, role-based routing, SLA tracking and PostgreSQL row-level security. | [Docs](https://github.com/zaid-jarwan/tikter-documentation) · [Repo (private)](https://github.com/zaid-jarwan/tikter) |
 | Escalation Report Generator | SOC alert formatter with automatic defanging and multi-tenant support. | [Docs](https://github.com/zaid-jarwan/Escalation-Report-Generator-Documentation) · [Repo (private)](https://github.com/zaid-jarwan/Escalation-Report-Generator) |
 | SOC Automation & Orchestration Platform | Wazuh, Suricata, FortiGate and Cisco integrated with n8n SOAR automation. | [Repo](https://github.com/zaid-jarwan/SOAR-SIEM--IDS-IPS-FW-SW) |
 | OLADS | Offensive Language Awareness Detection System for Arabic movies. | [Docs](https://github.com/zaid-jarwan/OLADS-For-Arabic-Movies-documentation) · [Repo (private)](https://github.com/zaid-jarwan/OLADS-For-Arabic-Movies) |
